@@ -28,5 +28,15 @@ namespace RandomAnimeSelector
             main_Screen.Show();
             this.Close();
         }
+
+        private void richTextBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
