@@ -87,5 +87,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DataHandle\Files\01AnimeSeries.txt" />
+    <Content Include="DataHandle\Files\02AnimeMovies.txt" />
+    <Content Include="DataHandle\Files\03Manga.txt" />
+    <Content Include="DataHandle\Files\04Other.txt" />
+    <Content Include="DataHandle\Files\05Winners.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
